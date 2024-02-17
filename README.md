@@ -1,3 +1,37 @@
+Practical will be in laravel
+2. Create a categories list page. Category can have multiple products
+For example:
+Sr no Category Name Products Count of
+product
+
+1 Woman Diamond
+Jwellery
+
+2
+
+2 Men Shirts, Watch,
+Shoes
+
+3
+
+2. Create page to insert product with particular category
+3. Create Product list page with search and pagination
+For example:
+Sr no Category Name Product
+1 Woman White Puma
+tshirt
+2 Men White Puma
+Shirt
+
+Database:
+There will be two tables
+1) Category - Insert data manually in the tables, no need to apply any code to enter data
+2) Products
+
+Note: Please provide proper instruction in README file to setup project and run it
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
